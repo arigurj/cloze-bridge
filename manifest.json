@@ -1,0 +1,10 @@
+{
+  "id": "cloze-bridge",
+  "name": "Cloze Bridge",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Convert selected text into Anki Cloze cards and export them as .tsv for AnkiConnect.",
+  "author": "arigurj",
+  "authorUrl": "https://github.com/arigurj",
+  "isDesktopOnly": false
+}
